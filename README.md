@@ -23,7 +23,7 @@ El proyecto comprende el diseño e implementación de un modelo de datos relacio
 
 | Nombre completo                       | ID de SIGAA | DBMS utilizado | NRC                                  |
 | ------------------------------------- | ----------- | ---------------|------------------------------------- |
-| Jeronimo Galvez Vallejos              | 000         |  |         |  |
+| Jeronimo Galvez Vallejos              | 000540184   |  |         | 21260 |
 | Carlos Alberto Calvache Torres        | 000540169   | PostregSQL | 21463 |
 
 
