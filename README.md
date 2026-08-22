@@ -23,7 +23,7 @@ El proyecto comprende el diseño e implementación de un modelo de datos relacio
 
 | Nombre completo                       | ID de SIGAA | DBMS utilizado | NRC                                  |
 | ------------------------------------- | ----------- | ---------------|------------------------------------- |
-| Jeronimo Galvez Vallejos              | 000540184   |            | 21260 |
+| Jeronimo Galvez Vallejos              | 000540184   | DBeaver        | 21260 |
 | Carlos Alberto Calvache Torres        | 000540169   | PostregSQL | 21463 |
 
 
@@ -72,8 +72,7 @@ tadb202620_examen_01/
 ├── .gitignore
 │
 ├── documentos/
-│   ├── abastecimiento_infraestructura.pdf
-│   ├── conectividad_IDE.pdf
+│   ├── proceso_abastecimiento.pdf
 │   └── interaccion_IA.pdf
 │
 ├── diagrama/
